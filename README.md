@@ -43,7 +43,7 @@ This tool is for educational and research purposes only. Respect YouTube's Terms
 
 ## Medium Article
 
-Read the full guide and use cases: [Link to your Medium article]
+Read the full guide and use cases: https://medium.com/@Visir/complete-guide-to-youtube-osint-investigation-with-tampermonkey-scripts-867371f04d4b
 
 ## License
 
